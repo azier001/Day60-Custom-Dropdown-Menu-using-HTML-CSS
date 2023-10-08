@@ -42,7 +42,7 @@ body {
   font-size: 18px;
 }
 
-.menu.active.arrow {
+.menu.active .arrow {
   transition: all 0.3s;
   transform: rotate(-135deg);
 }
@@ -56,7 +56,7 @@ body {
   display: none;
 }
 
-.menu.active.options {
+.menu.active .options {
   display: block;
 }
 
